@@ -1,0 +1,8 @@
+# contains copyrighted content 
+# go away IP_Justice.
+testing/
+
+# standard:
+*.exe
+*_nogit_*
+*.temp8
